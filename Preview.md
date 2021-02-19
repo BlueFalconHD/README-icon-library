@@ -1,8 +1,4 @@
-# Cool Stuff
-------
-Wow cool
-------
-Do These:
+## Remember to:
 
 ![watch] ![fork] ![star]
 
