@@ -57,6 +57,10 @@ That turn into:
 ![star]
 ![watch]
 ![html5 logo]
+------
+## Icon Requests
+------
+To request an icon, post an issue with the "Icon Idea" template.
 
 
 
