@@ -29,7 +29,6 @@ That turn into:
 
 
 
-
 [github icon]: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub Icon"
 [c# logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png "C# Logo"
 [typescript logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png "TypeScript Logo"
@@ -53,4 +52,5 @@ That turn into:
 [smile]: https://raw.githubusercontent.com/primer/octicons/89a79bfb343fb527e13a8338896b45d75503d25b/icons/smiley-24.svg "Smiley"
 [star]: https://raw.githubusercontent.com/primer/octicons/89a79bfb343fb527e13a8338896b45d75503d25b/icons/star-24.svg "Star"
 [watch]: https://www.pngkit.com/png/full/178-1787404_github-watch-icon-svg.png "Watch"
-[html5 logo]: https://ibb.co/DLByZVr "HTML 5"
+[html5 logo]: https://raw.githubusercontent.com/BlueFalconHD/README-icon-library/6662864e9fdc60d67e52329c46ce9083ab074333/assets/html5%20(1).svg "HTML 5"
+© 2021 GitHub, Inc.
