@@ -12,9 +12,53 @@ That turn into:
 ![smile]
 ![html5 logo]
 ![python logo]
+------
 
-
-
+## All Icons
+```
+- ![github icon]
+- ![c# logo]
+- ![typescript logo]
+- ![php logo]
+- ![c logo]
+- ![c++ logo]
+- ![java logo]
+- ![ruby logo]
+- ![python logo]
+- ![javascript logo] # Can also use ![js logo]
+- ![json logo]
+- ![html5 dark logo]
+- ![visual studio code logo] # Can also use ![vscode logo]
+- ![dancing octocat] # Can also use ![dancing octo]
+- ![code]
+- ![github logo]
+- ![fork]
+- ![smile]
+- ![star]
+- ![watch]
+- ![html5 logo]
+```
+![github icon]
+![c# logo]
+![typescript logo]
+![php logo]
+![c logo]
+![c++ logo]
+![java logo]
+![ruby logo]
+![python logo]
+![javascript logo]
+![json logo]
+![html5 dark logo]
+![visual studio code logo]
+![dancing octocat]
+![code]
+![github logo]
+![fork]
+![smile]
+![star]
+![watch]
+![html5 logo]
 
 
 
