@@ -43,6 +43,7 @@ That turn into:
 - ![pull request]
 - ![projects]
 - ![settings]
+- ![actions]
 ```
 ![github icon]
 ![c# logo]
@@ -68,8 +69,10 @@ That turn into:
 ![security]
 ![insights]
 ![pull request]
-![projects]
+![projects] 
 ![settings]
+![actions]
+![wiki]
 
 ------
 ## Icon Requests
