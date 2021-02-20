@@ -36,6 +36,13 @@ That turn into:
 - ![star]
 - ![watch]
 - ![html5 logo]
+- ![wiki]
+- ![issues]
+- ![security]
+- ![insights]
+- ![pull request]
+- ![projects]
+- ![settings]
 ```
 ![github icon]
 ![c# logo]
@@ -57,6 +64,13 @@ That turn into:
 ![star]
 ![watch]
 ![html5 logo]
+![issues]
+![security]
+![insights]
+![pull request]
+![projects]
+![settings]
+
 ------
 ## Icon Requests
 ------
