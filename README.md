@@ -86,9 +86,6 @@ To request an icon, post an issue with the "Icon Idea" template.
 
 
 
-
-
-
 [github icon]: https://github.com/BlueFalconHD/README-icon-library/blob/main/assets/github-icon-1%20(1).svg "GitHub Icon"
 [c# logo]: https://github.com/BlueFalconHD/README-icon-library/blob/main/assets/c%23.svg "C# Logo"
 [typescript logo]: https://github.com/BlueFalconHD/README-icon-library/blob/main/assets/typescript%20(1)%20(2).svg "TypeScript Logo"
@@ -112,3 +109,14 @@ To request an icon, post an issue with the "Icon Idea" template.
 [star]: https://raw.githubusercontent.com/primer/octicons/89a79bfb343fb527e13a8338896b45d75503d25b/icons/star-24.svg "Star"
 [watch]: https://github.com/BlueFalconHD/README-icon-library/blob/main/assets/eye-24.svg "Watch"
 [html5 logo]: https://raw.githubusercontent.com/BlueFalconHD/README-icon-library/6662864e9fdc60d67e52329c46ce9083ab074333/assets/html5%20(1).svg "HTML 5"
+[wiki]: https://github.com/BlueFalconHD/README-icon-library/blob/main/assets/book-16.svg "Wiki"
+[settings]: https://github.com/BlueFalconHD/README-icon-library/blob/main/assets/gear-16.svg "Settings"
+[pull request]: https://github.com/BlueFalconHD/README-icon-library/blob/main/assets/git-pull-request-16.svg "Pull Request"
+[insights]: https://github.com/BlueFalconHD/README-icon-library/blob/main/assets/graph-16.svg "Insights"
+[issues]: https://github.com/BlueFalconHD/README-icon-library/blob/main/assets/issue-opened-16.svg "Issues"
+[actions]: https://github.com/BlueFalconHD/README-icon-library/blob/main/assets/play-16.svg "Actions"
+[projects]: https://github.com/BlueFalconHD/README-icon-library/blob/main/assets/project-16.svg "Projects"
+[security]: https://github.com/BlueFalconHD/README-icon-library/blob/main/assets/shield-16.svg "Security"
+
+
+
